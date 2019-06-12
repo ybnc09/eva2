@@ -6,3 +6,5 @@ Podrán ver los estrenos más esperados(vinlan saga), los clásicos de siempre(h
 Integrantes
 -Paula Vargas :smiling_imp:
 -Bryan Neris :penguin:
+
+![Receta-Facil-PB](https://github.com/ybnc09/Receta-Facil-PB/blob/master/rf-logo.jpg)
